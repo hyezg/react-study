@@ -2,7 +2,7 @@
 ## - udemy 강의 수강 
 <img width="833" alt="image" src="https://github.com/hyezg/react-study/assets/112006114/ea6b6a73-7c82-4f38-97f0-faaeab127b2e">
 https://www.udemy.com/course/best-react/
-
+<hr>
 ## 1주차 (8/16 ~ 8/20) <br>
 - [x] 1
 - [ ] 2
