@@ -4,8 +4,8 @@
 https://www.udemy.com/course/best-react/
 
 ## 1주차 (8/16 ~ 8/20) <br>
-- [x] ch1
-- [ ] ch2
+- [x] ch1 (1~12)
+- [ ] ch2 (13~35)
 ## 2주차 (8/21 ~ 8/27) <br>
 - [ ] ch3
 - [ ] ch4
